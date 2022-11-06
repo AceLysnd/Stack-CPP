@@ -1,6 +1,6 @@
 # Stack-CPP
 
-Simple stack program using C++ / CPP
+Simple stack program using C++ / CPP,
 Feel free to use ^_^
 
 --------------------------------------------
